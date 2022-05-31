@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/taskFragment">
+
+    <fragment
+        android:id="@+id/taskFragment"
+        android:name="yash.com.miniproject.dherya.app.tasks.TaskFragment"
+        android:label="fragment_task"
+        tools:layout="@layout/fragment_task" >
+        <action
+            android:id="@+id/action_taskFragment_to_saveOrDeleteFragment"
+            app:destination="@id/saveOrDeleteFragment" />
+        <action
+            android:id="@+id/action_taskFragment_to_saveOrDeleteFragment2"
+            app:destination="@id/saveOrDeleteFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/saveOrDeleteFragment"
+        android:name="yash.com.miniproject.dherya.app.tasks.SaveOrDeleteFragment"
+        android:label="fragment_save_or_delete2"
+        tools:layout="@layout/fragment_save_or_delete2" >
+        <action
+            android:id="@+id/action_saveOrDeleteFragment_to_taskFragment"
+            app:destination="@id/taskFragment" />
+
+        <argument android:name="Note"
+            android:defaultValue="@null"
+            app:nullable="true"
+            app:argType="yash.com.miniproject.dherya.app.tasks.model.Note" />
+
+    </fragment>
+</navigation>

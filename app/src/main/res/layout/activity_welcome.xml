@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cc_foreground_green">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true">
+
+        <ImageView
+            android:id="@+id/activity_welcome_img_icon"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginTop="50dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/budget" />
+
+        <TextView
+            android:id="@+id/activity_welcome_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/activity_welcome_img_icon"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="@string/activity_welcome_txt_title"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@android:color/white" />
+
+
+        <TextView
+            android:id="@+id/activity_welcome_subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/activity_welcome_title"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="@string/activity_welcome_txt_subtitle"
+            android:textAppearance="?android:attr/textAppearance"
+            android:textColor="@android:color/white" />
+
+
+        <Button
+            android:id="@+id/activity_welcome_register_account"
+            style="?attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_below="@+id/activity_welcome_subtitle"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:background="@android:color/white"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="@string/activity_welcome_button_add_cc" />
+
+        <TextView
+            android:id="@+id/activity_welcome_or"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/activity_welcome_register_account"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:text="OR"
+            android:textAppearance="?android:attr/textAppearance"
+            android:textColor="@color/bpWhite" />
+
+        <Button
+            android:id="@+id/activity_welcome_login_button"
+            style="?attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_below="@+id/activity_welcome_or"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:background="@android:color/white"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="LOGIN" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

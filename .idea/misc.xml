@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/activity_cart.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/activity_checkout.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/activity_home.xml" value="0.17844202898550723" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/activity_login.xml" value="0.115625" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/activity_my_order.xml" value="0.11018518518518519" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/activity_product.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/activity_product_view.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/activity_recipe_details.xml" value="0.12314814814814815" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/activity_recommended_recipe.xml" value="0.25416666666666665" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/badge_icon_layout.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/custom_toast.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/fragment_about.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/fragment_address.xml" value="0.11018518518518519" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/fragment_confirm.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/fragment_expense_list.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/fragment_grocery.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/fragment_payment.xml" value="0.11018518518518519" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/fragment_recipee.xml" value="0.14227642276422764" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/fragment_save_or_delete.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/fragment_save_or_delete2.xml" value="0.11018518518518519" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/fragment_task.xml" value="0.15418502202643172" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/fragment_to_do.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/item_home_slider.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/item_slider.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/list_instructions.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/list_instructions_step_items.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/list_instructions_steps.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/list_meal_ingredients.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/list_random_recipe.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/list_similar_recipe.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/new_task.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/note_item_layout.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/progressbar.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/row_cart.xml" value="0.11018518518518519" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/row_category.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/row_grid_products.xml" value="0.11018518518518519" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/row_home_category.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/row_new_home_products.xml" value="0.11018518518518519" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/row_new_products.xml" value="0.11018518518518519" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/row_offer.xml" value="0.11018518518518519" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/row_order.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/row_popular_home_products.xml" value="0.11018518518518519" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/row_popuular_products.xml" value="0.11018518518518519" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/row_products.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/row_search_products.xml" value="0.11018518518518519" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/spinner_inner_text.xml" value="0.17844202898550723" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/spinner_text.xml" value="0.17844202898550723" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/spinnertextview.xml" value="0.1" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/success_dialog.xml" value="0.11018518518518519" />
+        <entry key="..\:/Projects/AndroidStudioProjects/Dherya-miniProject-master/app/src/main/res/layout/task_layout.xml" value="0.1" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/activity_add_credit_card.xml" value="0.1" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/activity_app_preference.xml" value="0.1" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/activity_expense_detail.xml" value="0.1" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/activity_home.xml" value="0.1793478260869565" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/activity_image_cropper.xml" value="0.1793478260869565" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/activity_image_viewer.xml" value="0.1793478260869565" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/activity_login.xml" value="0.1793478260869565" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/activity_notification_message.xml" value="0.1" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/activity_ocr_create_expense.xml" value="0.1793478260869565" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/activity_reminder.xml" value="0.10925925925925926" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/activity_signup.xml" value="0.1793478260869565" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/activity_welcome.xml" value="0.1793478260869565" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/dialog_create_or_edit_expense.xml" value="0.25" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/fragment_about.xml" value="0.26260504201680673" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/fragment_charts.xml" value="0.1793478260869565" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/fragment_credit_card_list.xml" value="0.1793478260869565" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/fragment_expense_list.xml" value="0.1793478260869565" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/fragment_notes.xml" value="0.1793478260869565" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/fragment_notess.xml" value="0.17300724637681159" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/fragment_overview.xml" value="0.1" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/list_item_credit_card_selectable.xml" value="0.25" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/list_item_nav_drawer.xml" value="0.1793478260869565" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/notification_layout.xml" value="0.1" />
+        <entry key="..\:/Projects/CreditCardExpenseManager-master/app/src/main/res/layout/single_reminder_file.xml" value="0.1" />
+        <entry key="..\:/Projects/Dherya-miniProject-master/app/src/main/res/layout/fragment_recipee.xml" value="0.11018518518518519" />
+        <entry key="..\:/Projects/Dherya-miniProject-master/app/src/main/res/layout/list_random_recipe.xml" value="0.1" />
+        <entry key="..\:/Projects/Dherya/app/src/main/res/layout/single_reminder_file.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/btn_custom.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/cc_background_gold.xml" value="0.1962962962962963" />
+        <entry key="app/src/main/res/drawable/cc_background_light_blue.xml" value="0.1962962962962963" />
+        <entry key="app/src/main/res/drawable/cc_background_light_gray.xml" value="0.1962962962962963" />
+        <entry key="app/src/main/res/drawable/et_custom.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_add_credit_card.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/activity_app_preference.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/activity_expense_detail.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/activity_image_cropper.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/activity_image_viewer.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.12545289855072464" />
+        <entry key="app/src/main/res/layout/activity_ocr_create_expense.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.20380434782608695" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/dialog_create_or_edit_expense.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/dialog_edit_or_delete_credit_card.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/dialog_new_credit_period.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/dialog_select_credit_card.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/fragment_about.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/fragment_chart_categories.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/fragment_chart_expenses.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/fragment_charts.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/fragment_credit_card_list.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/fragment_expense_list.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/fragment_navigation_drawer.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/fragment_notes.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_overview.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/list_item_credit_card.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/list_item_credit_card_selectable.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/list_item_expenses.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/list_item_nav_drawer.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/spinner_dropdown_item.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/spinner_item.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/menu/menu_expense_detail.xml" value="0.3765625" />
+        <entry key="app/src/main/res/menu/menu_overview.xml" value="0.3765625" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.25462962962962965" />
+        <entry key="app/src/main/res/xml/preferences.xml" value="0.3765625" />
+      </map>
+    </option>
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="android.support.annotation.Nullable" />
+    <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="3" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+          <item index="6" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+          <item index="7" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
+          <item index="10" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+          <item index="11" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.annotations.Nullable" />
+          <item index="13" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.Nullable" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="1" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="2" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+          <item index="5" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNonNull" />
+          <item index="6" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.NonNull" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullDecl" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
+          <item index="11" class="java.lang.String" itemvalue="io.reactivex.annotations.NonNull" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.NonNull" />
+          <item index="13" class="java.lang.String" itemvalue="lombok.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

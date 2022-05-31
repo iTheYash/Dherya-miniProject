@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31071681960",
+    "project_id": "dherya2-2e034",
+    "storage_bucket": "dherya2-2e034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31071681960:android:c2cf81463f9a9264ae719d",
+        "android_client_info": {
+          "package_name": "yash.com.miniproject.dherya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31071681960-vo0c18ag2bvq2kf2nnb5vnp7tpfdb7h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZheS7rRa3iCVmxiQzg1rJtQKtDE4O4tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31071681960-vo0c18ag2bvq2kf2nnb5vnp7tpfdb7h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
